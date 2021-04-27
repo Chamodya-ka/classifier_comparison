@@ -12,4 +12,4 @@ comp_SVM.ipynb  - Jupyter notebooks used to train the SVM
 ![SVM CF](https://github.com/Chamodya-ka/classifier_comparison/blob/master/models/SVM/SVM_II.png)
 
 ### NN
-![NN CF](https://github.com/Chamodya-ka/classifier_comparison/blob/master/models/NN/NN_II.png)
+![NN CF](https://github.com/Chamodya-ka/classifier_comparison/blob/master/models/NN/II_CM.png)
